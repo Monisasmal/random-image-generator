@@ -24,7 +24,7 @@ Description: Returns a welcome message.
 
 2️⃣ Random Image Endpoint
 Endpoint: /api/image/random
-Method: GET
+Method: GET 
 Description: Redirects the user to a random image of Lorem Picsum.
 
 😀😀Displays a random image.😀😀
