@@ -1,0 +1,21 @@
+{
+  "name": "node-image-generator",
+  "version": "1.0.0",
+  "description": "create Random image API using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodemon"
+  ],
+  "author": "manaswini sasmal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
