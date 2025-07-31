@@ -46,5 +46,14 @@ if i run my code on postman it showing like this
 ![image](https://github.com/user-attachments/assets/286d14ce-df93-4c8c-ad1f-30b92e598e21)
 
 
+📬 Contact
+
+Manaswini Sasmal
+
+📧 LinkedIn : https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+🌐 Portfolio : https://manaswini-portfolio.vercel.app/
+
+
 
 
